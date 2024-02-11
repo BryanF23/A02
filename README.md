@@ -2,7 +2,7 @@
 
 1. **Install Git**: Download and install Git from the official website.
    
-2. **Configure Git**: Set up your username and email address in Git using the `git config` command.
+2. **Configure Git**: Set up your username and email address in Git using the git config command.
 
 3. **Install WebStorm**: Download and install JetBrains WebStorm from the official website.
 
