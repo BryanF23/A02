@@ -1,6 +1,6 @@
 # A02
 
-Steps:
+## Step 1: Download and Install Github
 - Git: Download and Install Git
 - WebStorm: Download and Install WebStorm
 - GitHub Account: Sign up for a GitHub Account
@@ -17,7 +17,7 @@ Steps:
 4. Click "Create repository."
 
 1. Open WebStorm.
-2. Click on "Get from VCS" or "Checkout from Version Control" on the welcome screen, or go to `VCS -> Get from Version Control` in the menu.
+2. Click on "Get from VCS" or "Checkout from Version Control" on the welcome screen, or go to VCS and Get from Version Control in the menu.
 3. Choose Git from the dropdown.
 4. Paste the URL of the GitHub repository you want to clone.
 5. Choose a directory where you want to save the repository.
@@ -26,7 +26,6 @@ Steps:
 1. Open the project in WebStorm.
 2. Make changes to your files as needed.
 3. Save your changes.
-
 
 Part 2: Glossary to include these terms in a bulleted list:
 Glossary
