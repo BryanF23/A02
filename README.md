@@ -1,26 +1,31 @@
 # A02
 
-PART 1: Directions on Using Webstorm: To open a project﻿
-On the Welcome Screen, click Open and then select the folder with your application in the dialog that opens.
+Steps:
+- Git: Download and Install Git
+- WebStorm: Download and Install WebStorm
+- GitHub Account: Sign up for a GitHub Account
 
-To check out a project from a version control system﻿
-Click Get from VCS on the Welcome screen.
+1. Open a terminal or command prompt.
+2. Set up your Git username:
+3. Set up your Git email:
 
-Alternatively, select File | New | Project from Version Control or Git | Clone or VCS | Get from Version Control from the main menu.
+## Step 2: Create a GitHub Repository
 
-Instead of Git in the main menu, you may see any other Version Control System that is associated with your project. For example, Mercurial or Perforce.
+1. Log in to your GitHub account.
+2. Click on the "+" icon in the top-right corner and select "New repository."
+3. Fill in the repository name, description, and choose other settings as needed.
+4. Click "Create repository."
 
-In the dialog that opens, select your version control system from the list and specify the repository to check out the application sources from. For more information, refer to Check out a project (clone).
+1. Open WebStorm.
+2. Click on "Get from VCS" or "Checkout from Version Control" on the welcome screen, or go to `VCS -> Get from Version Control` in the menu.
+3. Choose Git from the dropdown.
+4. Paste the URL of the GitHub repository you want to clone.
+5. Choose a directory where you want to save the repository.
+6. Click "Clone."
 
-To create an empty WebStorm project﻿
-Click Create New Project on the Welcome screen or select File | New | Project from the main menu. The New Project dialog opens.
-
-In the left-hand pane, choose Empty Project. In the right-hand pane, specify the application folder and click Create.
-
-You can also generate a project from a template. For more information, refer to Generating framework-specific projects.
-
-To create a new file in a project﻿
-In the Project tool window, select the folder where you want to create a new file and press AltInsert.
+1. Open the project in WebStorm.
+2. Make changes to your files as needed.
+3. Save your changes.
 
 
 Part 2: Glossary to include these terms in a bulleted list:
