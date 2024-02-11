@@ -25,7 +25,7 @@
 
 1. Open the project in WebStorm.
 2. Make changes to your files as needed.
-3. Save your changes.
+3. 3. Save your changes.
 
 Part 2: Glossary to include these terms in a bulleted list:
 Glossary
