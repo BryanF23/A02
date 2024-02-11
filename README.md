@@ -18,8 +18,6 @@
 
 9. After committing changes, push them to your GitHub repository by going to VCS -> Git -> Push.
 
-10. If collaborating with others, fetch and merge changes from GitHub by going to VCS -> Git -> Pull.
-
 ## Part 2: Glossary:
 𝗕𝗿𝗮𝗻𝗰𝗵: allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
 
