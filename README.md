@@ -1,5 +1,5 @@
 # A02
-## Tutorial on setting up git/webstorm/github
+## Part 1: Tutorial on setting up git/webstorm/github
 1. Install Git: Download and install Git from the official website.
    
 2. Set up your username and email address in Git using the git config command.
