@@ -1,31 +1,24 @@
 # A02
 
-## Step 1: Download and Install Github
-- Git: Download and Install Git
-- WebStorm: Download and Install WebStorm
-- GitHub Account: Sign up for a GitHub Account
+1. **Install Git**: Download and install Git from the official website.
+   
+2. **Configure Git**: Set up your username and email address in Git using the `git config` command.
 
-1. Open a terminal or command prompt.
-2. Set up your Git username:
-3. Set up your Git email:
+3. **Install WebStorm**: Download and install JetBrains WebStorm from the official website.
 
-## Step 2: Create a GitHub Repository
+4. **Open WebStorm and Set up a Project**: Launch WebStorm and create a new project or open an existing one.
 
-1. Log in to your GitHub account.
-2. Click on the "+" icon in the top-right corner and select "New repository."
-3. Fill in the repository name, description, and choose other settings as needed.
-4. Click "Create repository."
+5. **Initialize Git Repository**: Inside WebStorm, open the terminal and navigate to your project directory. Initialize a Git repository using the git init command.
 
-1. Open WebStorm.
-2. Click on "Get from VCS" or "Checkout from Version Control" on the welcome screen, or go to VCS and Get from Version Control in the menu.
-3. Choose Git from the dropdown.
-4. Paste the URL of the GitHub repository you want to clone.
-5. Choose a directory where you want to save the repository.
-6. Click "Clone."
+6. **Create a GitHub Repository**: Log in to your GitHub account and create a new repository by clicking the "+" icon and following the prompts.
 
-1. Open the project in WebStorm.
-2. Make changes to your files as needed.
-3. 3. Save your changes.
+7. **Connect WebStorm to GitHub**: In WebStorm, go to VCS -> Import into Version Control -> Share Project on GitHub. Enter your GitHub credentials if prompted.
+
+8. **Commit Changes**: Make changes to your project and commit them using WebStorm's version control features.
+
+9. **Push Changes to GitHub**: After committing changes, push them to your GitHub repository by going to VCS -> Git -> Push.
+
+10. **Pull Changes from GitHub**: If collaborating with others, fetch and merge changes from GitHub by going to VCS -> Git -> Pull.
 
 ## Part 2: Glossary:
 𝗕𝗿𝗮𝗻𝗰𝗵: allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
