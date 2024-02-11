@@ -27,8 +27,7 @@
 2. Make changes to your files as needed.
 3. 3. Save your changes.
 
-Part 2: Glossary to include these terms in a bulleted list:
-Glossary
+## Part 2: Glossary:
 𝗕𝗿𝗮𝗻𝗰𝗵: allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository
 
 𝗖𝗹𝗼𝗻𝗲: copy the repository from GitHub.com to your local machine
