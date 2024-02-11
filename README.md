@@ -6,7 +6,7 @@ On the Welcome Screen, click Open and then select the folder with your applicati
 To check out a project from a version control system﻿
 Click Get from VCS on the Welcome screen.
 
-Alternatively, select File | New | Project from Version Control or Git | Clone… or VCS | Get from Version Control from the main menu.
+Alternatively, select File | New | Project from Version Control or Git | Clone or VCS | Get from Version Control from the main menu.
 
 Instead of Git in the main menu, you may see any other Version Control System that is associated with your project. For example, Mercurial or Perforce.
 
